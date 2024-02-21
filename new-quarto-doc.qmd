@@ -1,6 +1,5 @@
 ---
 title: "New Quarto Doc"
-author: "Me"
 format: html
 editor: visual
 embed-resources: true
